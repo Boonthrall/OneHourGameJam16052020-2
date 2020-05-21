@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-05-21T16:25:43.377+02:00
-  initializedAtString: 2020-05-21T16:25:43.377+02:00
+  lastUpdatedAtString: 2020-05-21T16:43:10.646+02:00
+  initializedAtString: 2020-05-21T16:43:10.646+02:00
   currentGitRemote:
     name: origin
     url: https://github.com/Boonthrall/OneHourGameJam16052020-2.git
